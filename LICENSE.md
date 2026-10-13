@@ -1,9 +1,9 @@
-# 🚀 iReady Hack - Unlimited Minutes, Auto Answers & Bypasser [Free] 2026
+# 🚀 iReady Hack - Unlimited Minutes, Auto Answers & Bypasser [Free] 2027
 
 ![Downloads](https://img.shields.io/badge/Downloads-77K+-blue?style=for-the-badge&logo=apple)
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.6/5-gold?style=for-the-badge&logo=star)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-v3.2.0-green?style=for-the-badge&logo=apple)
-![Platform](https://img.shields.io/badge/Platform-macOS%20Native-brightgreen?style=for-the-badge&logo=macos)
+![Platform](https://img.shields.io/badge/Platform-macOS%20Native-brightgreen?style=for-the-badge&logo=apple)
 
 The **🚀 iReady Hack v3** is the most advanced enhancement tool for the popular educational platform, iReady — now available as a **native macOS App**. This tool unlocks unlimited minutes, auto-answers questions, bypasses the diagnostic test, and provides complete dashboard control — all completely **free**. Whether you want to meet weekly minute requirements, skip the exhausting 2-hour diagnostic, or simply avoid repetitive lessons you've already mastered, iReady Hack v3 delivers **full dashboard control** with **easy one-click activation** on your Mac.
 
@@ -347,27 +347,6 @@ A: Usually no. The app auto-updates. If issues occur, re-run the installation co
 | **"App is damaged" error** | Run `xattr -cr /Applications/iReady\ Helper.app` in Terminal |
 | **Hacks not applying** | Refresh iReady page and re-click Apply |
 | **Terminal command fails** | Ensure you have an internet connection, re-copy the command |
-
----
-
-## 📋 Changelog
-
-### v3.2.0 — June 2026
-- ✅ Native Apple Silicon support (M1-M5)
-- ✅ macOS Tahoe 26 compatibility
-- ✅ Improved invisible mode
-- ✅ Faster minute injection
-- ✅ Native macOS UI
-
-### v3.1.0 — May 2026
-- ✅ Added custom minute amount feature
-- ✅ Smart delay for auto-answer
-- ✅ Session saver added
-
-### v3.0.0 — April 2026
-- ✅ Complete rewrite as native macOS app
-- ✅ Diagnostic bypass added
-- ✅ 10+ new features
 
 ---
 
